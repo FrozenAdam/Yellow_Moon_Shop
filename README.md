@@ -5,6 +5,7 @@ This repo contains the sourse code of a simple Java Web Application name Yellow 
 * Data Access Objects
 * Data Transfer Objects
 * SHA256 Encryption
+* Log4j as Log File
 
 ## Contact me via
 1. [Github](https://github.com/FrozenAdam)
